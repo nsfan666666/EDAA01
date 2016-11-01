@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+D:\Pictures\Programmering\GitHub\EDAA01\edaa01-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2620941534.index
+1968947691.index
+39645565.index
+1249023825.index
+3548104427.index
+1280704863.index
+1843348100.index
+1229861687.index
+2723700851.index
+3946796104.index
+1683568984.index
+2771756138.index
+3271193799.index
+2606080199.index
+1262208326.index
+3682916567.index
+3526530300.index
+87111012.index
+2894325825.index
